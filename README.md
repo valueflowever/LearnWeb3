@@ -10,7 +10,7 @@
 
 4. https://cryptozombies.io/
 
-5. https://www.smartcontract.engineer/challenges
+5. https://github.com/AmazingAng/WTF-Solidity
 
 6. https://github.com/Dapp-Learning-DAO/Dapp-Learning
 
